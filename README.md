@@ -1,4 +1,4 @@
-<h1 align="center">OLÁ 👋 , eu sou HenryJKS</h1><h3 align="center">Um pouco do meu conhecimento e sempre adquirindo mais SQL</h3>
+<h1 align="center">OLÁ 👋 , eu sou HenryJKS</h1><h3 align="center">Um pouco do meu conhecimento através de códigos e sempre adquirindo mais conhecimentos</h3>
 
 
 - 📄 Atualmente Estudando **SQL, mySQL, SQL Server, BI**- 
