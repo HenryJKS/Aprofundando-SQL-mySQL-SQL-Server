@@ -2,7 +2,6 @@
 
 
 - 📄 Atualmente Estudando **SQL, mySQL, SQL Server, BI**- 
-- 💬 Dúvidas Sobre: **SQL, mySQL**
 - 📫 Contato **henryjooji30@gmail.com**
 
 
