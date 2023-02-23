@@ -42,5 +42,6 @@ group by year(data_conta);
 /* Selecionando somente o ano de 2022 de todas as contas, somando todas elas desse período */
 select year(data_conta) 'Todo Período' , round(sum(conta_aluguel + conta_internet + conta_energia), 2) 'Conta do Período' 
 from conta
+where year(data_conta) = 2022
 group by year(data_conta);
 
