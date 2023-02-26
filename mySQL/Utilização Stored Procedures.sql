@@ -21,13 +21,13 @@ call atualizar_preco;
 DELIMITER $$
 USE `projetoestudo`$$
 CREATE PROCEDURE `novo_empregado` (id int, nome varchar(50), sobrenome varchar(50), datanascimento date, 
-									salario double, comissao double, ferias bit, id_empresa int)
+				   salario double, comissao double, ferias bit, id_empresa int)
                                     
 BEGIN
 
 insert into empregado (id_empregado, nome, sobrenome, data_nascimento, salario, comissao, ferias, id_empresa)
 	values           
-					  (id, nome, sobrenome, datanascimento, salario, comissao, ferias, id_empresa);
+		      (id, nome, sobrenome, datanascimento, salario, comissao, ferias, id_empresa);
 
 END $$
 
